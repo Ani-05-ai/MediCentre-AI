@@ -1,0 +1,5 @@
+{
+  "name": "MediCenter - Modern Medical Facilities",
+  "description": "A comprehensive platform for finding and accessing world-class medical facilities and healthcare services.",
+  "requestFramePermissions": ["geolocation"]
+}
